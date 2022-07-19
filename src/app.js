@@ -16,3 +16,5 @@ app.use(express.json());
 app.use("/api/notifications", languageRoutes);
 
 export default app;
+
+
